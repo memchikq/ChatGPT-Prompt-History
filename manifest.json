@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "ChatGPT Prompt History",
+    "name": "ChatGPT Prompt History List",
     "description": 
     "A convenient extension for viewing all the questions that you have asked in the current ChatGPT dialog, as well as a convenient transition to the question, you just need to click on it.",
     "version": "0.1",
